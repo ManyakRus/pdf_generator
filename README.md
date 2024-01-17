@@ -1,7 +1,3 @@
-Задача DSPR-382
-https://github.com/ManyakRus/starter
-https://jira.aescorp.ru/projects/DSPR/issues/DSPR-382?filter=allissues
-
 Реализация сервиса генерации PDF
 
 Необходимо реализовать микросервис формирования pdf.
